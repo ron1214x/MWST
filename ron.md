@@ -12,5 +12,7 @@ XHTML은 HTML과 동등한 표현 능력을 지닌 XML 마크업 언어로, HTML
 
 프로그래밍 언어란 프로그래밍을 쓸 때 쓰는 언어로 html, javascript, python, golang, C/C++ 등이 있고 css는 언어가 아니라 stylesheet이다. 그 중 웹 프로그래밍 언어란 웹을 프로그래밍을 할 때 쓰는 프로그래밍 언어로 html, javascript 등이 있고 꾸미기 위해 쓰는 css가 있다.
 
+[HTML 학습은 여](https://opentutorials.org/module/1892)
+
 
 
