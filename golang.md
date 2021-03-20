@@ -1,4 +1,4 @@
-# golang
+# golang\(\#컴파일 언어\)
 
 ## Go\(golang\)?
 
